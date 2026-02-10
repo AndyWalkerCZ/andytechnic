@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"created":"2025-10-14T22:58:11.836+02:00","updated":"2026-02-05T07:20:22.000+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"updated":"2026-02-11T00:06:17.387+01:00"}
 ---
 
 

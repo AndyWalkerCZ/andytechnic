@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/vyroba-6-ks/","created":"2026-01-13T14:03:04.820+01:00","updated":"2026-02-10T23:57:02.082+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/vyroba-6-ks/","updated":"2026-02-10T23:57:02.082+01:00"}
 ---
 
 [[Loonoy/Loonoy\|Loonoy]]

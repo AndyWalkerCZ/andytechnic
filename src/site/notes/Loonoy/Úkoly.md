@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/ukoly/","created":"2025-10-14T22:58:12.957+02:00","updated":"2026-02-10T23:55:37.565+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/ukoly/","tags":["gardenEntry"],"updated":"2026-02-11T00:05:55.794+01:00"}
 ---
 
 

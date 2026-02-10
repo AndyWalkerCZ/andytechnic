@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/komponenty/","created":"2025-10-15T23:22:42.251+02:00","updated":"2026-02-10T23:54:52.255+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/komponenty/","updated":"2026-02-10T23:54:52.255+01:00"}
 ---
 
 
