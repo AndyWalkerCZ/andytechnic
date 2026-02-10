@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"updated":"2026-02-11T00:43:08.419+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/loonoy/","tags":["projekt","gardenEntry"],"updated":"2026-02-11T00:45:44.146+01:00"}
 ---
 
 
@@ -22,10 +22,6 @@
 
 
 
-
-| hostname   | IP              | MAC               | Username | Heslo:    |
-| ---------- | --------------- | ----------------- | -------- | --------- |
-| loonoy-rpi | 192.168.124.103 | B8:27:EB:22:ED:BC | loonoy   | testheslo |
 
 
 
