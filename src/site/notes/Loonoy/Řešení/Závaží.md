@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/reseni/zavazi/","updated":"2026-02-11T10:24:49.675+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/reseni/zavazi/","updated":"2026-02-11T10:24:49.000+01:00"}
 ---
 
 
