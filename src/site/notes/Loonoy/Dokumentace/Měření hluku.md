@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/dokumentace/mereni-hluku/","updated":"2026-02-11T07:12:12.221+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/dokumentace/mereni-hluku/","updated":"2026-02-11T08:32:03.928+01:00"}
 ---
 
 
-# Test 24.10.2025
+# Provedené testy
+## Test 24.10.2025
 
 **Datum a čas testu:** 24.10.2025 10:30 
 **Měřící přístroj:** Voltcraft SL-451
@@ -20,7 +21,7 @@
 |                   rozsah kroků: |        |        750        |      750       |
 |                    počet cyklů: |        |        10         |       10       |
 
-# Test 27.10.2025
+## Test 27.10.2025
 
 **Datum a čas testu:** 27.10.2025 09:00 
 **Měřící přístroj:** Voltcraft SL-451
@@ -37,7 +38,7 @@
 |                   rozsah kroků: |        |        750        |      750       |
 |                    počet cyklů: |        |        30         |       30       |
 
-# Test 27.10.2025
+## Test 27.10.2025
 
 **Datum a čas testu:** 27.10.2025 10:11 
 **Měřící přístroj:** Voltcraft SL-451
