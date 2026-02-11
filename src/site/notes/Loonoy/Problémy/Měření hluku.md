@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/problemy/mereni-hluku/","updated":"2026-02-11T09:02:49.000+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/problemy/mereni-hluku/","updated":"2026-02-11T10:15:29.850+01:00"}
 ---
 
 
+[[Loonoy/Administrativa a řízení/1. Úvodní stránka\| 🏠 Domů]]
 # Provedené testy
 ## Test 24.10.2025
 

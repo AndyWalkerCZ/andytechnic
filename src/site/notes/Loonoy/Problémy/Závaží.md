@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/problemy/zavazi/","updated":"2026-02-11T09:10:49.789+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/problemy/zavazi/","updated":"2026-02-11T10:24:49.675+01:00"}
 ---
 
 
-# R1 - stav
+[[Loonoy/Administrativa a řízení/1. Úvodní stránka\| 🏠 Domů]]
+
+# Finální řešení
 
 |                                     parametr | hodnota |
 | -------------------------------------------: | ------: |

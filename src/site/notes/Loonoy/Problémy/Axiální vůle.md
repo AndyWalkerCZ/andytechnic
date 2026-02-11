@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/problemy/axialni-vule/","updated":"2026-02-11T09:12:56.880+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/problemy/axialni-vule/","updated":"2026-02-11T10:15:02.454+01:00"}
 ---
 
+
+[[Loonoy/Administrativa a řízení/1. Úvodní stránka\| 🏠 Domů]]
 # Axiální vůle
 Problém axiální vůle byl identifikován **22. ledna 2026** při kompletaci druhého prototypu. Tento problém pravděpodobně identifikoval již předchozí vývojový tým neboť mosaznou trapézovou přírubu T8x8 se snažil nahradit přírubou z materiálu POM, ke které jsem bohužel nedohledaly původní zdroj. Jejich finální řešením byla náhrada tohoto dílu dílem 3D tištěným nejspíše z důvodu nastavení výrobní vůle v rámci modelu. Bohužel tento prvek není materiálově dlouhodobě stabilní ani vhodný pro tuto aplikaci a jeho použití je bez záruky pro dlouhodobý provoz.
 
