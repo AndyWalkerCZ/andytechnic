@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/komponenty/","updated":"2026-02-11T00:46:18.623+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/komponenty/","updated":"2026-02-11T00:46:18.000+01:00"}
 ---
 
 # Přehled komponent

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/vyroba-6-ks/","updated":"2026-02-11T00:49:18.767+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/vyroba-6-ks/","updated":"2026-02-11T07:04:50.764+01:00"}
 ---
 
-[[Loonoy/01. - Úvodní stránka\|01. - Úvodní stránka]]
+[[Loonoy/1. Úvodní stránka\|1. Úvodní stránka]]
 
 
 1) **FÁZE: Vrtání otvorů pro kabely a světlovody** (5 - 10 minut max)
