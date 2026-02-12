@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/reseni/spojovaci-material/","updated":"2026-02-11T10:18:58.000+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/reseni/spojovaci-material/","updated":"2026-02-11T10:18:58.432+01:00"}
 ---
 
 
