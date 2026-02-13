@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loonoy/reseni/usb-c-kabel/","updated":"2026-02-11T23:33:16.165+01:00"}
+{"dg-publish":true,"permalink":"/loonoy/reseni/usb-c-kabel/","updated":"2026-02-11T23:33:16.000+01:00"}
 ---
 
 
